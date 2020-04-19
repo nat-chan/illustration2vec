@@ -9,6 +9,8 @@ wget https://github.com/rezoo/illustration2vec/releases/download/v2.0.0/tag_list
 wget https://github.com/rezoo/illustration2vec/releases/download/v2.0.0/illust2vec_tag.prototxt
 wget https://github.com/rezoo/illustration2vec/releases/download/v2.0.0/illust2vec_tag_ver200.caffemodel
 wget https://github.com/rezoo/illustration2vec/releases/download/v2.0.0/illust2vec_ver200.caffemodel
+wget https://github.com/nat-chan/illustration2vec/releases/download/v2.0.0-pytorch/illust2vec_ver200.pth
+wget https://github.com/nat-chan/illustration2vec/releases/download/v2.0.0-pytorch/illust2vec_tag_ver200.pth
 gunzip tag_list.json.gz
 
 echo "Done."
