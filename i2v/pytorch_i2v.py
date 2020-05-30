@@ -5,11 +5,6 @@ import numpy as np
 from scipy.ndimage import zoom
 from skimage.transform import resize
 
-import chainer
-from chainer import Variable
-from chainer.functions import average_pooling_2d, sigmoid
-from chainer.links.caffe import CaffeFunction
-
 import numpy as np
 
 import torch
